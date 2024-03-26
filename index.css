@@ -1,0 +1,171 @@
+body{
+	margin: 0px;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.navbarname{
+	color: floralwhite;
+	font-family:Algerian;
+	font-size: 30px;
+}
+.navbarname:hover{
+	color: ;
+}
+.navbar{
+	position: fixed !important;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	z-index:1;
+	background-image: linear-gradient(to right,#042fbd,#103bc9,#0563fa,#2da9e3,#2ee8e5,#48e0cc);
+}
+.menu{
+	font-size: 15px;
+	font-family:Arial Black ;
+	color: whitesmoke;
+
+}
+.menu:hover{
+	color: #0e53e8;
+	font-weight: bolder;
+
+}
+.div{
+	
+	
+}
+.maindiv{
+	width: 100%;
+	position: absolute;
+	top: 50px;
+}
+.dv{
+	width: 100%;
+	padding-top: 200px;
+	margin: 30px;
+
+}
+
+html{
+	scroll-behavior: smooth;
+}
+.home{
+	padding-top: 30px;
+	margin-top: 50%;
+	padding-left: 150px;
+	height: 300px;
+	margin-top: 60px;
+	background-image: url("https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif");
+	background-repeat: no-repeat;
+	background-size: 40%;
+	background-position:800px center ;
+}
+.home1{
+	margin-top: 10px;
+
+}
+
+
+.btn button{
+	height: 30px;
+	width: 80px;
+	border: none;
+	margin-left: 50px;
+	background-color: #053499;
+	border-radius: 10px;
+	color: white;
+	font-size: 14px;
+	font-weight: bolder;
+
+}
+.btn button:hover{
+	background-color: #05ffa8;
+	color: #053499;
+	border: 2px solid darkblue;
+	transition-duration: 1s;
+}
+.info{
+	font-size: 20px;
+	color: #065cbf;
+	font-weight: bolder;
+}
+
+.infoname{
+	font-size: 40px;
+	font-family: Algerian !important;
+	color: #0e05b0;
+	font-weight: bolder;
+}
+
+.infodev{
+	font-size: 16px;
+	color: #036b5f;
+	font-variant: small-caps;
+}
+.skillinfo{
+	font-weight: bold;
+	color: #09388f;
+}
+
+
+.skilltitle{
+	
+	font-weight: bold;
+}
+.skill{
+	background-image: url('https://www.biospectrumindia.com/uploads/articles/skills-12130.png');
+	background-repeat: no-repeat;
+	background-position: center right;
+}
+
+.cinfo{
+	color: royalblue;
+	font-size: 20px;
+	font-weight: bolder;
+}
+.pf1{
+	height: 100px;
+	width: 80px;
+}
+.abtinfo{
+	height:250px ;
+	width:100% ;
+	background-repeat: no-repeat;
+	background-image: url('https://media.getmyuni.com/azure/college-image/big/orchid-college-of-engineering-and-technology-ocet-solapur.jpg');
+	background-position: center left;
+	background-: ;
+	padding-left: 600px;
+	font-variant: revert;
+	fo
+}
+.a1{
+	font-size: 18px;
+	color: darkblue;
+}
+.abt{
+	font-size: 16px;
+	color: royalblue;
+}
+.details1{
+	font-size: 18px;
+}
+.details1:hover{
+	border: none;
+
+
+}
+.navbar ul li{
+	margin: 0px 23px;
+}
+summary{
+	font-weight: bolder;
+	font-size: 25px;
+	color: blueviolet;
+}
+.pimage{
+      
+}
+td{
+	glyph-orientation-horizontal: 20px;
+}
